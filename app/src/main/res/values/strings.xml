@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Vision</string>
+    <string name="Image">Vision</string>
+    <string name="Button">SignUp</string>
+    <string name="Button2">LOGIN</string>
+    <string name="text0">New User</string>
+    <string name="text1">Already a member ?</string>
+    <string name="text2">Vision</string>
+</resources>
